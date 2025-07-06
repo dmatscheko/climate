@@ -6,24 +6,24 @@ Earth’s carbon cycle regulates atmospheric CO2, balancing it across the atmosp
 
 In the Carboniferous period (359–299 million years ago), CO2 fell from ~1,500 ppm to ~300–500 ppm as lignin-rich plants, like *Lepidodendron* trees, formed coal deposits in swampy forests[^3]. Lignin’s resistance to microbial decay (due to absent fungi) led to massive carbon burial, cooling the planet. By the Permian (~250 million years ago), white-rot fungi evolved, recycling lignin and stabilizing CO2 at ~200–400 ppm, though volcanic events like the Siberian Traps later spiked levels. Marine phytoplankton, forming oil in anoxic basins (e.g., North Sea oil fields), sequestered carbon as limestone and oil from ~200 million years ago, maintaining CO2 at ~200–2,000 ppm through the Mesozoic and Cenozoic[^4].
 
-In the pre-industrial era (~1750), CO2 stabilized at ~280 ppm, balanced by forests, oceans, and silicate weathering. Since the Industrial Revolution, burning fossil fuels (e.g., coal from Carboniferous deposits, oil from Mesozoic shales) and deforestation have released ~1 trillion tons of CO2, raising levels to ~420 ppm by 2025[^5]. This unprecedented spike has driven ~1.5°C of warming, amplified by feedbacks like permafrost thaw in Siberia and methane releases from Arctic wetlands. Modern ecosystems, such as forests and soils, naturally absorb and store carbon, but natural sinks — oceans (~2–3 GtC/year), forests (~2–3 GtC/year), and weathering (~0.1–0.2 GtC/year) — are too slow to absorb the influx, leaving Earth vulnerable to prolonged warming.
+In the pre-industrial era (~1750), CO2 stabilized at ~280 ppm, balanced by forests, oceans, and silicate weathering. Since the Industrial Revolution, burning fossil fuels (e.g., coal from Carboniferous deposits, oil from Mesozoic shales) and deforestation have released ~1 trillion tons of CO2, raising levels to ~420 ppm by 2025[^5]. This rate, unprecedented in at least 540 million years, outpaces natural sinks — oceans (~2–3 GtC/year), forests (~2–3 GtC/year), and weathering (~0.1–0.2 GtC/year) — driving ~1.5°C of warming. Feedbacks, like permafrost thaw in Siberia and methane releases from Arctic wetlands and methane hydrate, amplify warming, while silicate weathering’s slow response offers minimal near-term mitigation.
 
 ### Earth’s Climate and Life Evolution Timeline
 
-The following table summarizes key periods in Earth’s history, detailing solar intensity (W/m² on Earth’s surface), atmospheric CO2 levels, and dominant life forms.
+The following table summarizes key periods in Earth’s history, detailing solar intensity (W/m² on Earth’s surface), atmospheric CO2 levels, and dominant life forms[^1][^15][^16].
 
 | Period (Years Ago)                | Solar Irradiance (W/m²) | CO2 Level (ppm)       | Dominant Life Types                        |
 |-----------------------------------|-------------------------|-----------------------|--------------------------------------------|
-| Early Earth (3.5 BYA)             | ~1038                   | 10,000–100,000        | Anaerobic microbes, cyanobacteria          |
-| Great Oxygenation Event (2.4 BYA) | ~1132                   | ~1,000–10,000         | Early aerobic microbes                     |
-| Carboniferous (320 MYA)           | ~1324                   | 1,500 to 300–500      | Lignin-rich plants, early forests, insects |
-| Permian (270 MYA)                 | ~1328                   | 200–400 (with spikes) | Early reptiles, white-rot fungi            |
-| Mesozoic (150 MYA)                | ~1342                   | 200–2,000             | Dinosaurs, gymnosperms, marine reptiles    |
-| Pre-industrial (1750 CE)          | ~1366                   | ~280                  | Mammals, angiosperms, early humans         |
-| Present (2025 CE)                 | 1366                    | ~420                  | Humans, diverse ecosystems                 |
+| Early Earth (3.5 BYA)             | ~1022 [^1]              | 10,000–100,000        | Anaerobic microbes, cyanobacteria          |
+| Great Oxygenation Event (2.4 BYA) | ~1158                   | ~1,000–10,000         | Early aerobic microbes                     |
+| Carboniferous (320 MYA)           | ~1333                   | 1,500 to 300–500      | Lignin-rich plants, early forests, insects |
+| Permian (270 MYA)                 | ~1341                   | 200–400 (with spikes) | Early reptiles, white-rot fungi            |
+| Mesozoic (150 MYA)                | ~1344                   | 200–2,000             | Dinosaurs, gymnosperms, marine reptiles    |
+| Pre-industrial (1750 CE)          | ~1361 [^15]             | ~280                  | Mammals, angiosperms, early humans         |
+| Present (2025 CE)                 | 1361                    | ~420                  | Humans, diverse ecosystems                 |
 
 **Notes:**
-- Solar intensity values are approximate, based on the faint young Sun paradox and modern measurements (~1366 W/m² today).
+- Solar intensity values are approximate, based on the faint young Sun paradox and modern measurements (~1361 W/m² today).
 - CO2 levels are derived from geochemical proxies (e.g., stomatal indices, carbonate isotopes) and modern monitoring.
 - Life types reflect dominant or emerging forms, influencing carbon cycling.
 
@@ -38,33 +38,33 @@ The BAU scenario follows SSP5-8.5[^6], projecting CO2 levels of ~600–700 ppm b
 ### Temperature Projections and Methane Feedbacks
 Temperature increases depend on CO2 concentrations, radiative forcing, and feedbacks, notably methane spikes from permafrost thaw, clathrates, and wetlands. Current warming (~1.5°C at 420 ppm in 2025) is the baseline. Projections use CMIP6 models (ECS 1.8–5.6°C, mean ~3.9°C), adjusted for NetCRE (Net Cloud Radiative Effect) underestimation in most climate models[^9] (2.1 W/m², adding 0.6–1.7°C) and methane forcing[^10] (0.5–2.3 W/m², adding 0.15–1.8°C), yielding a methane-inclusive ECS of 2.55–8.8°C. At 1000 ppm CO2, equilibrium warming is 3.6–12.4°C.
 
-Methane amplifies warming. Permafrost could release 50–250 GtC by 2100, with 5–15% as methane, adding ~0.1–0.5°C transient warming by 2050 and up to 1°C by 2100[^11]. For example, methane bubbling from Siberian lakes has increased emissions. Clathrates (e.g., East Siberian Arctic Shelf) and wetlands (e.g., Amazon) contribute ~0.1–0.3 W/m² and ~0.2–0.5 W/m², respectively. Unlike Eocene ECS estimates (2–5°C at 1000–2000 ppm, excluding short-term methane), modern spikes drive rapid warming on decadal scales.
+Methane amplifies warming significantly, driven by permafrost thaw. The northern permafrost region stores ~1460–1600 Gt of organic carbon, with ~60% in the top 3 meters of soil, vulnerable to rapid thaw under warming scenarios[^16]. Under SSP5-8.5, abrupt thaw could release 50–250 GtC by 2100, with 5–15% as methane (CH4), equivalent to 4–30 Gt CH4. Given methane’s 25–120 times higher global warming potential than CO2 over 20 years, this adds ~0.2–0.7°C transient warming by 2050 and up to 1.2°C by 2100[^11][^16]. For example, methane emissions from Siberian lakes have surged, with ~0.5–1 Tg CH4/year from abrupt thaw sites. Clathrates (e.g., East Siberian Arctic Shelf) and wetlands (e.g., Amazon) contribute ~0.1–0.3 W/m² and ~0.2–0.5 W/m², respectively. Unlike Eocene ECS estimates (2–5°C at 1000–2000 ppm, excluding short-term methane), modern spikes drive rapid warming on decadal scales due to higher thaw rates and microbial activity in warming soils[^16].
 
 ### Probabilities and Impacts
-The table below summarizes temperature increase probabilities under SSP5-8.5 for 2050 (~450–500 ppm), 2100 (~600–700 ppm), and 2200 (~1000 ppm), with human species survival probabilities and key impacts, derived from CMIP6 distributions[^12] and adjusted for feedbacks and policy trends. The baseline of ~1.5°C at 420 ppm in 2025 anchors near-term projections.
+The table below summarizes temperature increase probabilities under SSP5-8.5 for 2050 (~450–500 ppm), 2100 (~600–700 ppm), and 2200 (~1000 ppm), with human species survival probabilities and key impacts, derived from CMIP6 distributions[^12], adjusted for enhanced permafrost feedbacks from recent data[^16], and policy trends. The baseline of ~1.5°C at 420 ppm in 2025 anchors near-term projections.
 
 | Temperature (°C) | Prob. 2050 (%) | Prob. 2100 (%) | Prob. 2200 (%) | Survival Prob. (%) | Key Impacts |
 |------------------|----------------|----------------|----------------|--------------------|-------------|
-| 1.5–2.0          | 60             | 5              | 0              | 95–100             | Increased heatwaves (millions at risk), 6% species extinction, coral reef loss (70–90%), 20% population in high-risk zones |
-| 2.0–3.0          | 35             | 30             | 5              | 70–90              | Lethal heat in tropics (35% land affected), 30–60% species extinction, 1 billion displaced, crop yield declines |
-| 3.0–4.5          | 5              | 50             | 30             | 20–50              | Uninhabitable regions (100+ lethal heat days), 75% land altered, billions displaced, food production collapse |
-| 4.5–6.0          | 0              | 10             | 40             | <10–20             | Equatorial regions uninhabitable, 97% species extinct, global food failure, nuclear war risks |
+| 1.5–2.0          | 55             | 5              | 0              | 95–100             | Increased heatwaves (millions at risk), 6% species extinction, coral reef loss (70–90%), 20% population in high-risk zones |
+| 2.0–3.0          | 35             | 25             | 5              | 70–90              | Lethal heat in tropics (35% land affected), 30–60% species extinction, 1 billion displaced, crop yield declines |
+| 3.0–4.5          | 10             | 50             | 25             | 15–45              | Uninhabitable regions (100+ lethal heat days), 75% land altered, billions displaced, food production collapse |
+| 4.5–6.0          | 0              | 15             | 45             | <10–20             | Equatorial regions uninhabitable, 97% species extinct, global food failure, nuclear war risks |
 | 6.0–12.4         | 0              | 5              | 25             | <5–10              | Most land uninhabitable (Tw >35°C), 99% species extinct, Permian-like collapse, small refugia only |
 
 **Reasoning for Probabilities**:
-- **2050 (~450–500 ppm)**: From 1.5°C in 2025, warming of 1.8–2.5°C (median ~2.1°C) is likely[^6], with methane adding ~0.1–0.3°C. The 60% probability for 1.5–2.0°C reflects near-term constraints, while 35% for 2.0–3.0°C and 5% for 3.0–4.5°C account for feedback tail risks, driven by rapid Arctic warming.
-- **2100 (~600–700 ppm)**: Median warming of ~3.5°C (range 2.5–4.5°C) dominates (50% for 3.0–4.5°C), with methane and NetCRE pushing 10% to 4.5–6.0°C and 5% to 6.0–12.4°C. Lower bins (1.5–3.0°C) are less likely due to committed warming and policy failures.
-- **2200 (~1000 ppm)**: Warming shifts to 4.0–7.0°C (median ~5.5°C), with 40% for 4.5–6.0°C and 25% for 6.0–12.4°C reflecting equilibrium-like conditions and high feedbacks. Lower temperatures are improbable without mitigation.
+- **2050 (~450–500 ppm)**: From 1.5°C in 2025, warming of 1.8–2.5°C (median ~2.1°C) is likely[^6], with permafrost methane adding ~0.2–0.7°C due to abrupt thaw releasing 4–30 Gt CH4[^16]. The 55% probability for 1.5–2.0°C reflects near-term constraints, while 35% for 2.0–3.0°C and 10% for 3.0–4.5°C account for enhanced feedback risks from permafrost.
+- **2100 (~600–700 ppm)**: Median warming of ~3.5°C (range 2.5–4.5°C) dominates (50% for 3.0–4.5°C), with methane and NetCRE pushing 15% to 4.5–6.0°C and 5% to 6.0–12.4°C. Permafrost emissions (50–250 GtC, 5–15% as methane) increase tail risks[^16]. Lower bins (1.5–3.0°C) are less likely due to committed warming and policy failures.
+- **2200 (~1000 ppm)**: Warming shifts to 4.0–7.0°C (median ~5.5°C), with 45% for 4.5–6.0°C and 25% for 6.0–12.4°C reflecting equilibrium-like conditions and high feedbacks. Lower temperatures are improbable without mitigation.
 
 ## Survival Probability of Humanity
 
-Human survival depends on physiological limits (wet-bulb temperature >35°C), ecosystem stability, and societal resilience. The table above details impacts and survival probabilities, derived from IPCC AR6[^6], Sherwood & Huber, 2010[^13], and Warren et al., 2018[^14], with optimism tempered by economic forcing, fossil fuel influence, and feedback uncertainties.
+Human survival depends on physiological limits (wet-bulb temperature >35°C), ecosystem stability, and societal resilience. The table above details impacts and survival probabilities, derived from IPCC AR6[^6], Sherwood & Huber, 2010[^13], Warren et al., 2018[^14], and updated permafrost data[^16]. Enhanced permafrost feedbacks lower survival probabilities slightly due to accelerated methane emissions.
 
-At 1.5–2.0°C, adaptation (e.g., cooling infrastructure in Dubai) mitigates risks, but millions in South Asia face heat stress. By 2.0–3.0°C, lethal heat and displacement strain societies, reducing survival to 70–90%. At 3.0–4.5°C, uninhabitable regions (e.g., India with 100+ days of Tw >35°C) and food collapse threaten billions, dropping survival to 20–50%. Beyond 4.5°C, equatorial uninhabitability, near-total species extinction (e.g., loss of pollinators like bees), and societal breakdown (e.g., resource wars) make survival unlikely (<10–20% at 4.5–6.0°C, <5–10% at 6.0–12.4°C). AI-driven energy demands, cooling energy demands, economic forcing, and policy rollbacks exacerbate emissions, limiting adaptation and pushing toward catastrophic outcomes.
+At 1.5–2.0°C, adaptation (e.g., cooling infrastructure in Dubai) mitigates risks, but millions in South Asia face heat stress. By 2.0–3.0°C, lethal heat and displacement strain societies, reducing survival to 70–90%. At 3.0–4.5°C, uninhabitable regions (e.g., India with 100+ days of Tw >35°C) and food collapse threaten billions, dropping survival to 15–45% due to amplified permafrost methane emissions accelerating ecosystem collapse[^16]. Beyond 4.5°C, equatorial uninhabitability, near-total species extinction (e.g., loss of pollinators like bees), and societal breakdown (e.g., resource wars) make survival unlikely (<10–20% at 4.5–6.0°C, <5–10% at 6.0–12.4°C). AI-driven energy demands, cooling needs, economic forcing, and policy rollbacks exacerbate emissions, limiting adaptation and pushing toward catastrophic outcomes.
 
 ## Conclusion
 
-Earth’s carbon cycle, once balanced by sinks like lignin burial (reducing CO2 from 1,500 to 300 ppm) and marine sedimentation, is overwhelmed by human emissions, with CO2 rising from 280 ppm to 420 ppm and potentially 1000 ppm by 2200 under BAU. Natural sinks cannot absorb this rapid influx, and methane spikes from thawing permafrost and wetlands amplify near-term warming. Driven by AI energy demands, cooling needs, and policy reversals, SSP5-8.5 projects severe warming, with humanity’s survival probability plummeting from near-certain to <5–10% at extreme levels. Without urgent mitigation, humanity faces uninhabitable regions, ecosystem collapse, and extinction conditions, demanding immediate action to avert the darkest outcomes.
+Earth’s carbon cycle, once balanced by sinks like lignin burial (reducing CO2 from 1,500 to 300 ppm) and marine sedimentation, is overwhelmed by human emissions, with CO2 rising from 280 ppm to 420 ppm and potentially 1000 ppm by 2200 under BAU. Natural sinks cannot absorb this rapid influx, and methane spikes from thawing permafrost, now estimated to release 50–250 GtC by 2100 with 5–15% as methane, amplify near-term warming by up to 1.2°C by 2100[^16]. Driven by AI energy demands, cooling needs, and policy reversals, SSP5-8.5 projects severe warming, with humanity’s survival probability plummeting from near-certain to <5–10% at extreme levels. Without urgent mitigation, humanity faces uninhabitable regions, ecosystem collapse, and extinction conditions, demanding immediate action to avert the darkest outcomes.
 
 <br><br><br><br>
 
@@ -118,8 +118,8 @@ Earth’s carbon cycle, once balanced by sinks like lignin burial (reducing CO2 
 
 ### Footnotes
 
-[^1]: Models high CO2 levels (10,000–100,000 ppm) in the early Earth’s atmosphere to explain warm climate despite a faint Sun, using geochemical data from ancient basalts [Kasting, 1993](https://www.sciencedirect.com/science/article/abs/pii/S0019103583710109).  
-[^2]: Describes the rise of atmospheric oxygen ~2.4 billion years ago, reducing CO2 to 1,000–10,000 ppm and triggering global cooling [Lyons et al., 2014](https://www.nature.com/articles/nature13068).  
+[^1]: Models high CO2 levels (10,000–100,000 ppm) in the early Earth’s atmosphere to explain warm climate despite a faint Sun, using geochemical data from ancient basalts [Kasting, 1993](https://www.sciencedirect.com/science/article/abs/pii/S0019103583710109) ([Preprint](https://arxiv.org/abs/1301.6674)).  
+[^2]: Describes the rise of atmospheric oxygen ~2.4 billion years ago, reducing CO2 to 1,000–10,000 ppm and triggering global cooling [Lyons et al., 2014](https://www.nature.com/articles/nature13068) ([Free Access](https://www.researchgate.net/publication/260270485_The_rise_of_oxygen_in_Earth's_early_ocean_and_atmosphere)).  
 [^3]: Links Carboniferous coal deposits to lignin burial, reducing CO2 from 1,500 to 300–500 ppm, cooling the planet [Beerling et al., 2011](https://www.nature.com/articles/ngeo1186).  
 [^4]: Documents oil formation from Jurassic phytoplankton, contributing to CO2 sequestration in the Mesozoic [Tissot & Welte, 1984](https://link.springer.com/book/10.1007/978-3-642-87813-8).  
 [^5]: Reports 2025 global CO2 at 420 ppm, with methane emissions rising from Siberian lakes, amplifying warming [NOAA, 2025](https://www.ncei.noaa.gov/news/global-climate-202413).  
@@ -132,3 +132,5 @@ Earth’s carbon cycle, once balanced by sinks like lignin burial (reducing CO2 
 [^12]: Provides CMIP6 temperature projections, adjusted for feedbacks, supporting probability estimates [Hausfather et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085378).  
 [^13]: Defines wet-bulb temperature limits (>35°C) for human survival, critical for high-warming impacts [Sherwood & Huber, 2010](https://www.pnas.org/doi/10.1073/pnas.0913352107).  
 [^14]: Estimates species extinction risks (30–97% at 2.0–4.5°C), underpinning ecosystem collapse impacts [Warren et al., 2018](https://www.science.org/doi/10.1126/science.aar3646).  
+[^15]: A new, lower value of total solar irradiance: Evidence and climate significance [Kopp et al., 2011](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL045777).  
+[^16]: Quantifies permafrost carbon stocks (1460–1600 GtC) and emissions (50–250 GtC by 2100, 5–15% as methane), with abrupt thaw amplifying warming [Natali et al., 2024](https://www.science.org/doi/10.1126/science.adi5177).  
