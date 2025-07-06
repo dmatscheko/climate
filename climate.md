@@ -39,7 +39,7 @@ The table below summarizes temperature increase probabilities under SSP5-8.5 for
 
 ## Survival Probability of Humanity
 
-Human survival depends on physiological limits (wet-bulb temperature >35°C), ecosystem stability, and societal resilience. The table above details impacts and survival probabilities, derived from IPCC AR6[^6], Sherwood & Huber, 2010[^13], and Warren et al., 2018[^14], with optimism tempered by fossil fuel influence and feedback uncertainties.
+Human survival depends on physiological limits (wet-bulb temperature >35°C), ecosystem stability, and societal resilience. The table above details impacts and survival probabilities, derived from IPCC AR6[^6], Sherwood & Huber, 2010[^13], and Warren et al., 2018[^14], with optimism tempered by economic forcing, fossil fuel influence, and feedback uncertainties.
 
 At 1.5–2.0°C, adaptation (e.g., cooling infrastructure in Dubai) mitigates risks, but millions in South Asia face heat stress. By 2.0–3.0°C, lethal heat and displacement strain societies, reducing survival to 70–90%. At 3.0–4.5°C, uninhabitable regions (e.g., India with 100+ days of Tw >35°C) and food collapse threaten billions, dropping survival to 20–50%. Beyond 4.5°C, equatorial uninhabitability, near-total species extinction (e.g., loss of pollinators like bees), and societal breakdown (e.g., resource wars) make survival unlikely (<10–20% at 4.5–6.0°C, <5–10% at 6.0–12.4°C). AI-driven energy demands and policy rollbacks exacerbate emissions, limiting adaptation and pushing toward catastrophic outcomes.
 
