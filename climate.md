@@ -22,7 +22,7 @@ Temperature increases depend on CO2 concentrations, radiative forcing, and feedb
 Methane amplifies warming. Permafrost could release 50–250 GtC by 2100, with 5–15% as methane, adding ~0.1–0.5°C transient warming by 2050 and up to 1°C by 2100[^11]. For example, methane bubbling from Siberian lakes has increased emissions. Clathrates (e.g., East Siberian Arctic Shelf) and wetlands (e.g., Amazon) contribute ~0.1–0.3 W/m² and ~0.2–0.5 W/m², respectively. Unlike Eocene ECS estimates (2–5°C at 1000–2000 ppm, excluding short-term methane), modern spikes drive rapid warming on decadal scales.
 
 ### Probabilities and Impacts
-The table below summarizes temperature increase probabilities under SSP5-8.5 for 2050 (~450–500 ppm), 2100 (~600–700 ppm), and 2200 (~1000 ppm), with survival probabilities and key impacts, derived from CMIP6 distributions[^12] and adjusted for feedbacks and policy trends. The baseline of ~1.5°C at 420 ppm in 2025 anchors near-term projections.
+The table below summarizes temperature increase probabilities under SSP5-8.5 for 2050 (~450–500 ppm), 2100 (~600–700 ppm), and 2200 (~1000 ppm), with human species survival probabilities and key impacts, derived from CMIP6 distributions[^12] and adjusted for feedbacks and policy trends. The baseline of ~1.5°C at 420 ppm in 2025 anchors near-term projections.
 
 | Temperature (°C) | Prob. 2050 (%) | Prob. 2100 (%) | Prob. 2200 (%) | Survival Prob. (%) | Key Impacts |
 |------------------|----------------|----------------|----------------|--------------------|-------------|
