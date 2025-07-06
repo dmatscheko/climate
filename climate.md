@@ -8,6 +8,25 @@ In the Carboniferous period (359–299 million years ago), CO2 fell from ~1,500 
 
 In the pre-industrial era (~1750), CO2 stabilized at ~280 ppm, balanced by forests, oceans, and silicate weathering. Since the Industrial Revolution, burning fossil fuels (e.g., coal from Carboniferous deposits, oil from Mesozoic shales) and deforestation have released ~1 trillion tons of CO2, raising levels to ~420 ppm by 2025[^5]. This unprecedented spike has driven ~1.5°C of warming, amplified by feedbacks like permafrost thaw in Siberia and methane releases from Arctic wetlands. Modern ecosystems, such as forests and soils, naturally absorb and store carbon, but natural sinks — oceans (~2–3 GtC/year), forests (~2–3 GtC/year), and weathering (~0.1–0.2 GtC/year) — are too slow to absorb the influx, leaving Earth vulnerable to prolonged warming.
 
+### Earth’s Climate and Life Evolution Timeline
+
+The following table summarizes key periods in Earth’s history, detailing solar intensity (W/m² on Earth’s surface), atmospheric CO2 levels, and dominant life forms.
+
+| Period (Years Ago)                | Solar Irradiance (W/m²) | CO2 Level (ppm)       | Dominant Life Types                        |
+|-----------------------------------|-------------------------|-----------------------|--------------------------------------------|
+| Early Earth (3.5 BYA)             | ~1038                   | 10,000–100,000        | Anaerobic microbes, cyanobacteria          |
+| Great Oxygenation Event (2.4 BYA) | ~1132                   | ~1,000–10,000         | Early aerobic microbes                     |
+| Carboniferous (320 MYA)           | ~1324                   | 1,500 to 300–500      | Lignin-rich plants, early forests, insects |
+| Permian (270 MYA)                 | ~1328                   | 200–400 (with spikes) | Early reptiles, white-rot fungi            |
+| Mesozoic (150 MYA)                | ~1342                   | 200–2,000             | Dinosaurs, gymnosperms, marine reptiles    |
+| Pre-industrial (1750 CE)          | ~1366                   | ~280                  | Mammals, angiosperms, early humans         |
+| Present (2025 CE)                 | 1366                    | ~420                  | Humans, diverse ecosystems                 |
+
+**Notes:**
+- Solar intensity values are approximate, based on the faint young Sun paradox and modern measurements (~1366 W/m² today).
+- CO2 levels are derived from geochemical proxies (e.g., stomatal indices, carbonate isotopes) and modern monitoring.
+- Life types reflect dominant or emerging forms, influencing carbon cycling.
+
 ## Reasoning for Temperature Increases and Probabilities
 
 ### Business-as-Usual Scenario and Drivers
